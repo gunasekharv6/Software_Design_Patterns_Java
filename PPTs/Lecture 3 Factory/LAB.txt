@@ -1,0 +1,13 @@
+LAB:
+
+Add Singleton Factories to the Stock program
+
+For Example:
+
+Given TWO derived classes from Stock,
+
+Create TWO factories (one for each derived class) which implement GoF Factory Method pattern
+
+AND Create TWO additional factories (one for each derived class) which implement GoF Factory Method pattern AND Singleton pattern
+
+One Lazy Singleton and the other Eager Singleton

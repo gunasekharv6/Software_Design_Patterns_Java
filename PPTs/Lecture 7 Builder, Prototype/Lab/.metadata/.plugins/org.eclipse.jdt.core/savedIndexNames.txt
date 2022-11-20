@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\Classes\Sem 3\Design Patterns\Lecture 7 Builder, Prototype\Lab\.metadata\.plugins\org.eclipse.jdt.core
+166522343.index
+960897267.index
+1865797976.index
+96551162.index

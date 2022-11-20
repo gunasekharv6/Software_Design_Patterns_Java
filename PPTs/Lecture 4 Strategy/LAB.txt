@@ -1,0 +1,9 @@
+LAB:
+
+COLLABORATIVE LAB WORK:
+
+Implement a unique scenario where the Strategy pattern provides THREE dynamic changes of allgorithm.
+
+INDIVIDUAL HOMEWORK ASSIGNMENT:
+
+Refactor Stock Factory assignment using the Strategy pattern so each Stock class can dynamically switch algorithms for computing stock price.

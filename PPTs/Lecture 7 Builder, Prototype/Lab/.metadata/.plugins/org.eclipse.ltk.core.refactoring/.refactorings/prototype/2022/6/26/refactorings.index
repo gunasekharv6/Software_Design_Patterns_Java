@@ -1,0 +1,8 @@
+1655942207070	Rename type 'Color'
+1655942233795	Rename type 'BlackColor'
+1655942245710	Rename field 'colorName'
+1655942253527	Rename field 'carName'
+1655942370209	Rename type 'RedColor'
+1655942423659	Rename type 'ColorRegistry'
+1655942448317	Rename method 'getColor'
+1655942472696	Rename local variable 'colorName'

@@ -1,0 +1,15 @@
+Command Pattern LAB:
+
+/**
+ * Use the Command Design Pattern to implement a batch calculator for computations
+ * Then set up FIVE batch compute jobs, as follows: 100 TOTAL POINTS TEAM LAB ASSIGNMENT
+ *         add 6 and 3 (20 POINTS)
+ *         subtract 3 from 6 (20 POINTS)
+ *         multiply 6 and 3 (20 POINTS)
+ *         divide 6 by 3 (20 POINTS)
+ *         sum 1,2,3,4 (20 POINTS)
+ * Show the results from each compute batch job. 30 POINTS DEDUCTED IF LATE.
+ * 
+ * @author dpeters
+ *
+ */
